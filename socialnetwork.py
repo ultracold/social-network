@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 author: ultracold
-e-mail: ultracold.data@gmail.com
 """
 
 # -------------------------------- #
