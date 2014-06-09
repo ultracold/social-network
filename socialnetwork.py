@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  1 13:26:54 2014
-
-author: David Adu Smith
+author: ultracold
 e-mail: ultracold.data@gmail.com
 """
 
